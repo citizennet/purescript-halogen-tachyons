@@ -1,0 +1,12 @@
+{
+  "name": "purescript-halogen-tachyons",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-halogen": "^3.0.1"
+  }
+}
