@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "build": "pulp build --to dist/feature.js"
+  }
+}
